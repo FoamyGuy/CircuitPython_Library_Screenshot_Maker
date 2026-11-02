@@ -41,7 +41,7 @@ HIDDEN_TEXT_COLOR = "#808080"
 
 OR_MARKER_COLOR = "#E0A030"
 OR_MARKER_BADGE_TEXT_COLOR = "#303030"
-OR_MARKER_LABEL = "only need one"
+OR_MARKER_LABEL = "choose one"
 
 # Architectures that native .mpy files can be built for
 MPY_ARCHITECTURES = (
